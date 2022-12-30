@@ -47,7 +47,7 @@ nav{
     font-weight: 400;
 }
 .slider{
-    background: url(/img/wall.jpg);
+    background: url(img/wall.jpg);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 86%);
     overflow: hidden;
 }
